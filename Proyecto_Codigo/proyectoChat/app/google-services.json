@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "313090370674",
+    "firebase_url": "https://proyectochat-92f01.firebaseio.com",
+    "project_id": "proyectochat-92f01",
+    "storage_bucket": "proyectochat-92f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313090370674:android:855af8ea2e5fcd7fa3a6eb",
+        "android_client_info": {
+          "package_name": "com.example.proyectochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313090370674-13ppd577pieoupfl0ej4rsvnudi4t4nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASA86N9E4c9DidV1vn9tGL_AQ47sJBms0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313090370674-13ppd577pieoupfl0ej4rsvnudi4t4nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
