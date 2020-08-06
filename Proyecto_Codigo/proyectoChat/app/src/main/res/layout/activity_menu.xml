@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@android:style/Widget.Holo.Light.TextView.SpinnerItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:capitalize="words"
+        android:text="Bienvenido al chat Mi Espe"
+        android:textColor="#00C853"
+        android:textColorLink="#64DD17"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal"></LinearLayout>
+
+    <Button
+        android:id="@+id/btnVerUsuarios"
+        style="@android:style/Widget.Material.Light.Button.Toggle"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/ic_menu_send"
+        android:hint="Ver usuarios"
+        android:text="Contactos" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="23dp"
+        android:orientation="horizontal"></LinearLayout>
+
+    <Button
+        android:id="@+id/btnCerrarSesion"
+        style="@android:style/Widget.Material.Light.Button.Toggle"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/btn_dialog"
+        android:hint="Cerrar Sesion"
+        android:text="Salir" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="23dp"
+        android:orientation="horizontal"></LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="174dp"
+        app:srcCompat="@drawable/descarga" />
+</LinearLayout>

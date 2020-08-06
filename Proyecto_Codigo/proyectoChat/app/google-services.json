@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "313090370674",
-    "firebase_url": "https://proyectochat-92f01.firebaseio.com",
-    "project_id": "proyectochat-92f01",
-    "storage_bucket": "proyectochat-92f01.appspot.com"
+    "project_number": "907987121239",
+    "firebase_url": "https://fir-chat-4740d.firebaseio.com",
+    "project_id": "fir-chat-4740d",
+    "storage_bucket": "fir-chat-4740d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:313090370674:android:855af8ea2e5fcd7fa3a6eb",
+        "mobilesdk_app_id": "1:907987121239:android:266608b83bf7cad90adf12",
         "android_client_info": {
-          "package_name": "com.example.proyectochat"
+          "package_name": "piazzoli.kevin.com.firebasechat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "313090370674-13ppd577pieoupfl0ej4rsvnudi4t4nb.apps.googleusercontent.com",
+          "client_id": "907987121239-ivkd6t3beptfeg7jmt5c4ruq3ookt9r7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyASA86N9E4c9DidV1vn9tGL_AQ47sJBms0"
+          "current_key": "AIzaSyDTDX6lXBwsKBSxL2dufR6vWf3Z3rwBcXc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "313090370674-13ppd577pieoupfl0ej4rsvnudi4t4nb.apps.googleusercontent.com",
+              "client_id": "907987121239-ivkd6t3beptfeg7jmt5c4ruq3ookt9r7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
